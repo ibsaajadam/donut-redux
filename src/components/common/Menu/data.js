@@ -1,0 +1,92 @@
+export const menuItemsData = [
+    {
+      id: 1,
+      name: 'Almond Donut',
+      price: 5,
+      img: '/images/almond.png',
+    },
+    {
+      id: 2,
+      name: 'Glazed Donut',
+      price: 4,
+      img: '/images/glazed.png',
+    },
+    {
+      id: 3,
+      name: 'Tinkerbell Donut',
+      price: 3,
+      img: '/images/tinkerbell.png',
+    },
+    {
+      id: 4,
+      name: 'Pink Sprinkle',
+      price: 7,
+      img: '/images/pinksprinkle.png',
+    },
+    {
+      id: 5,
+      name: 'Half Peanuts/Half Chocolate',
+      price: 7,
+      img: '/images/halfnuts.png',
+    },
+    {
+      id: 6,
+      name: 'Chocolate Donut',
+      price: 5,
+      img: '/images/chocolate.png',
+    },
+    {
+      id: 7,
+      name: 'Sugar Donut',
+      price: 3,
+      img: '/images/sugar.png',
+    },
+    {
+      id: 8,
+      name: 'Cider Donut',
+      price: 4,
+      img: '/images/cider.png',
+    },
+    {
+      id: 9,
+      name: 'Fruity Pebbles Donut',
+      price: 6,
+      img: '/images/pebbles.png',
+    },
+    {
+      id: 10,
+      name: 'Happy Donut',
+      price: 4,
+      img: '/images/happy.png',
+    },
+    {
+      id: 11,
+      name: 'Maple Iced Cake Donut',
+      price: 7,
+      img: '/images/maple.png',
+    },
+    {
+      id: 12,
+      name: 'Lemon Cake Donut',
+      price: 7,
+      img: '/images/lemon.png',
+    },
+    {
+      id: 13,
+      name: 'Chocolate Peanut Donut',
+      price: 6,
+      img: '/images/chocpeanut.png',
+    },
+    {
+      id: 14,
+      name: 'White Chocolate Donut',
+      price: 5,
+      img: '/images/whitechoc.png',
+    },
+    {
+      id: 15,
+      name: 'Covered Chocolate Donut',
+      price: 6,
+      img: '/images/covered.png',
+    },
+  ];
