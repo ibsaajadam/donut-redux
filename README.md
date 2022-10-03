@@ -1,4 +1,39 @@
-# Getting Started with Create React App
+# Donut React.JS Redux Store
+
+Web App built out using React.JS with Redux.
+
+## Table of contents
+
+- [Screenshot](#screenshot)
+- [Technologies](#technologies)
+- [Live Demo](#live-demo)
+- [Contact](#contact)
+- [Start Server](#start-server)
+
+
+## Screenshot
+<img src="/public/images/screenshot.png">
+
+## Technologies
+
+- React.js (Hooks) & Redux
+
+## Live Demo
+
+View live demo here: [Demo](https://donut-redux.vercel.app/)
+
+## Contact
+
+Created by [Ibsaa J Adam](https://github.com/ibsaajadam) - feel free to contact on:
+You can find me also on:
+
+- [Linkedin](https://www.linkedin.com/in/ibsaajadam/)
+- [Github](https://github.com/ibsaajadam)
+
+
+## Start Server 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
